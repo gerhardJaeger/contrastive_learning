@@ -1,5 +1,7 @@
 # Contrastive Learning Tutorial: SimCLR from Scratch
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gerhardJaeger/contrastive_learning/HEAD?labpath=contrastive_learning_tutorial.ipynb)
+
 A hands-on tutorial implementing **SimCLR** — a seminal self-supervised contrastive learning framework — using PyTorch on CIFAR-10.
 
 ## What you'll learn
@@ -16,9 +18,14 @@ A hands-on tutorial implementing **SimCLR** — a seminal self-supervised contra
 |------|-------------|
 | `contrastive_learning_tutorial.ipynb` | Main tutorial notebook (start here) |
 | `requirements.txt` | Python dependencies |
+| `runtime.txt` | Python version pin for Binder |
 
 ## Quickstart
 
+**In the cloud (Binder):** Click the badge above — no install needed.
+> Binder requires this repo to be on a public GitHub host. Push to GitHub first, then the badge will work.
+
+**Locally:**
 ```bash
 pip install -r requirements.txt
 jupyter notebook contrastive_learning_tutorial.ipynb
