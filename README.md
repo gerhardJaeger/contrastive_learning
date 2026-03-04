@@ -1,7 +1,7 @@
 # Contrastive Learning Tutorial: SimCLR from Scratch
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gerhardJaeger/contrastive_learning/HEAD?labpath=contrastive_learning_tutorial.ipynb)
-[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gerhardJaeger/contrastive_learning/HEAD?labpath=contrastive_learning_tutorial.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gerhardJaeger/contrastive_learning/claude%2Fcontrastive-learning-tutorial-Bkxhd?labpath=contrastive_learning_tutorial.ipynb)
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gerhardJaeger/contrastive_learning/claude%2Fcontrastive-learning-tutorial-Bkxhd?labpath=contrastive_learning_tutorial.ipynb)
 
 A hands-on tutorial implementing **SimCLR** — a seminal self-supervised contrastive learning framework — using PyTorch on CIFAR-10.
 
